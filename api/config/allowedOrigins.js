@@ -3,3 +3,5 @@ const allowedOrigins = [
   "http://bruno-dasilva.com",
   "http://www.bruno-dasilva.com",
 ];
+
+module.exports = allowedOrigins;
