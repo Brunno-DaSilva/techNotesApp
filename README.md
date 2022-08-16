@@ -1,1 +1,1 @@
-# techNotesApp
+# TechNotesApp a MERN Stack APP
